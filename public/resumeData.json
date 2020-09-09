@@ -1,0 +1,215 @@
+{
+  "main": {
+    "name": "Aniket Sharma",
+    "occupation": "Full Stack Developer && Instructor @Digitalzilla's",
+    "description": "Full Stack Web Developer by Day, Founder && Freelancer by Night. #HiDraqula",
+    "image": "myself.ani.png",
+    "bio": "My name is Aniket, I'm a Full Stack Web/Mean/Mern Developer. Currently I'm working at Digitalzilla's while also coaching and making YT Videos...",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "aniketaz190@gmail.com",
+    "phone": "+44 12 345 6789",
+    "whatsapp": "+91 790 374 2627",
+    "address": {
+      "country": "India",
+      "street": "123 Fake Street",
+      "city": "Bangalore",
+      "state": "KA",
+      "zip": "ABC 123"
+    },
+    "website": "https://myself.web.app",
+    "resumedownload": "https://myself.web.app",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/Aniket1975",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/its-aniket/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/myself.ani/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/HiDraqula",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Full Stack Web Developer & Web Specialist | React | Angular | Node Js | Mongo DB | HTML | CSS | PHP | Git | MERN/MEAN Stack Developer.",
+    "education": [{
+        "school": "Linda University, Online | 😁😄",
+        "degree": "HTML5 Essential's",
+        "graduated": "Aug 2019"
+      },
+      {
+        "degree": "CSS Essential Training 1,2,3",
+        "graduated": "Aug 2019"
+      },
+      {
+        "degree": "JavaScript Essential Training",
+        "graduated": "Sep 2019"
+      },
+      {
+        "degree": "Backend With NodeJs & ExpressJs",
+        "graduated": "Sep 2019"
+      },
+      {
+        "degree": "ReactJs Essential Training",
+        "graduated": "Oct 2019"
+      },
+      {
+        "school": "YT: Fun Of Heuristic | 😉✌",
+        "degree": "Angular 10+",
+        "graduated": "May 2020"
+      }
+    ],
+    "work": [{
+        "company": "Digitalzilla's, Bangalore IN",
+        "title": "Team Member && Web Specialist",
+        "years": "April 2020 - Present"
+      },
+      {
+        "company": "Web for You | YT: Why So Technical 😇",
+        "title": "Teacher/Educator",
+        "years": "Nov 2019 - April 2020",
+        "description": "Helping Everyone to Leverage Coding/Web/Tech to the Fullest."
+      }
+    ],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "81%",
+        "img": "react.svg",
+        "color": "#00bfff"
+      },
+      {
+        "name": "AngularJs",
+        "level": "75%",
+        "img": "angular.svg",
+        "color": "#dd0031"
+      },
+      {
+        "name": "Javascript",
+        "level": "95%",
+        "img": "javascript1.svg",
+        "color": "#f7df1e"
+      },
+      {
+        "name": "Typescript",
+        "level": "90%",
+        "img": "typescript1.svg",
+        "color": "#007acc"
+      },
+
+      {
+        "name": "Node",
+        "level": "75%",
+        "img": "node.svg",
+        "color": "#539e43"
+      },
+      {
+        "name": "Express",
+        "level": "80%",
+        "img": "express.svg",
+        "color": "#000000"
+      },
+      {
+        "name": "Python",
+        "level": "80%",
+        "img": "python.svg",
+        "color": "#347ab4"
+      },
+      {
+        "name": "Django",
+        "level": "75%",
+        "img": "django1.svg",
+        "color": "#2ba977"
+      },
+
+      {
+        "name": "Adobe Photoshop",
+        "level": "75%",
+        "img": "photoshop.svg",
+        "color": "#001e36"
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "level": "80%",
+        "img": "premierepro.svg",
+        "color": "#00005b"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%",
+        "img": "css3.svg",
+        "color": "#3b9ad6"
+      }, {
+        "name": "Git",
+        "level": "60%",
+        "img": "git1.svg",
+        "color": "#de4c36"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "img": "html-5.svg",
+        "color": "#ed5e28"
+      },
+      {
+        "name": "Mongoose (MongoDB)",
+        "level": "80%",
+        "img": "mongodb1.svg",
+        "color": "#46a037"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Aniket Sharma must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
