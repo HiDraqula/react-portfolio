@@ -1,7 +1,7 @@
 # My Version
 ## <a href="https://compassionate-leakey-e9b16b.netlify.app/">Live Here</a>
+![ReactJS Resume Website Template](screenshot6.jpg?raw=true "ReactJS Resume Website Template")
 ![ReactJS Resume Website Template](screenshot2.jpg?raw=true "ReactJS Resume Website Template")
-![ReactJS Resume Website Template](screenshot1.jpg?raw=true "ReactJS Resume Website Template")
 ![ReactJS Resume Website Template](screenshot3.jpg?raw=true "ReactJS Resume Website Template")
 
 # Clever Programmer ReactJS Portfolio Template      
