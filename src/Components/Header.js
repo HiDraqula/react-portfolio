@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-var bgimg = "https://source.unsplash.com/1600x900/?nature,water,monuments", bgimgL, bgset = false;
+var bgimg = "https://source.unsplash.com/1600x900/?nature,water,monuments,sky", bgimgL, bgset = false;
 
 class Header extends Component {
 
