@@ -1,9 +1,13 @@
+# My Version
+![ReactJS Resume Website Template](resume-screenshot2.jpg.png?raw=true "ReactJS Resume Website Template")
+## <a href="https://compassionate-leakey-e9b16b.netlify.app/">Live Here</a>
+
 # Clever Programmer ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
 
-![ReactJS Resume Website Template](resume-screenshot2.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
