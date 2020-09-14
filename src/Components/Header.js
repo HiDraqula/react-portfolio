@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { bgFetchDelay } from './All';
 
 var bgimg = "https://source.unsplash.com/1600x900/?nature,water,monuments,sky", bgimgL, bgset = false;
 
@@ -9,29 +10,9 @@ class Header extends Component {
       this.state = { shuffelbg: false };
    }
 
-   setBG = () => {
-      if (bgimgL && bgset) {
-         var header = document.querySelector("header");
-         header.style.backgroundImage = `url(${bgimgL})`;
-      }
-   }
-
    componentDidMount() {
-      fetch(bgimg)
-         .then(response => response.blob())
-         .then(images => {
-            bgimgL = URL.createObjectURL(images)
-            console.log({ bgimgL })
-            this.setBG()
-         })
-      setTimeout(() => {
-         // header.classList.add("shuffle-bg");
-         // this.setState({
-         //    ...this.state, shuffelbg: true
-         // })
-         bgset = true;
-         this.setBG()
-      }, 3000)
+      bgFetchDelay("header", bgimg, 3000)
+
    }
 
    render() {

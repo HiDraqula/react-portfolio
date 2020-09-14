@@ -170,6 +170,13 @@
   },
   "portfolio": {
     "projects": [{
+        "title": "FireStack Amazon Clone ",
+        "category": "Amazon Clone built with Firebase (Authentication, Cloud Firestore, & Functions(express)) with Stripe Integration",
+        "image": "https://raw.githubusercontent.com/HiDraqula/Amazon-Clone/master/screenshot2.jpg",
+        "url": "https://aclone.web.app",
+        "ref": "https://www.youtube.com/playlist?list=PLlEuzS4uH96S-bji0XKMWCttdgQpMamQ-"
+      },
+      {
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",

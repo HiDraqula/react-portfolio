@@ -26,14 +26,14 @@ header .banner-text h2 {
 }
 
 .shuffel-bg {
-  background-image: url(https://source.unsplash.com/1600x900/?nature,water,monuments);
+  background-image: url(https://source.unsplash.com/1600x900/?nature,water,monuments) !important;
   /* background-blend-mode: soft-light; */
   /* background-blend-mode: overlay; */
   /* background-color: rgb(0 0 0 / 0.51); */
 }
 
 #testimonials {
-  background-image: url(https://source.unsplash.com/1600x900/?water,nature,monuments);
+  /* background-image: url(https://source.unsplash.com/1600x900/?water,nature,monuments); */
   background-blend-mode: exclusion;
   background-color: #ff000047;
   /* background-color:#0043ff47; */

@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
+import { bgFetchDelay } from './All';
 
 class Testimonials extends Component {
    constructor(props) {
       super(props);
-      this.state = { shuffelbg: false };
+      // this.state = { shuffelbg: false };
    }
    componentDidMount() {
       // var header = document.querySelector("header");
-      setTimeout(() => {
-         // header.classList.add("shuffle-bg");
-         this.setState({
-            ...this.state, shuffelbg: true
-         })
-      }, 4500)
+      // setTimeout(() => {
+      //    // header.classList.add("shuffle-bg");
+      //    this.setState({
+      //       ...this.state, shuffelbg: true
+      //    })
+      // }, 4500)
+      bgFetchDelay("#testimonials", "https://source.unsplash.com/1600x900/?nature,water,monuments", 4500)
    }
    render() {
 
@@ -28,7 +30,8 @@ class Testimonials extends Component {
       }
 
       return (
-         <section id="testimonials" className={this.state.shuffelbg ? "shuffel-bg" : ""} >
+         <section id="testimonials" >
+            {/* <section id="testimonials" className={this.state.shuffelbg ? "shuffel-bg" : ""} > */}
             <div className="text-container">
                <div className="row">
 
