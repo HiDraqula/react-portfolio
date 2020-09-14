@@ -1,7 +1,7 @@
 # My Version
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">Live Here</a>
+## <a href="https://itsdraqula.netlify.app/">Live Here</a>
 ![ReactJS Resume Website Template](screenshot2.jpg?raw=true "ReactJS Resume Website Template")
-![ReactJS Resume Website Template](screenshot1.jpg?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](screenshot6.jpg?raw=true "ReactJS Resume Website Template")
 ![ReactJS Resume Website Template](screenshot3.jpg?raw=true "ReactJS Resume Website Template")
 
 # Clever Programmer ReactJS Portfolio Template      
@@ -11,7 +11,7 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://itsdraqula.netlify.app/">LIVE DEMO</a>
+## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
