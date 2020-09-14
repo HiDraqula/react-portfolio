@@ -11,11 +11,11 @@ export const bgFetchDelay = (elm, url, delay = 0) => {
     .then(response => response.blob())
     .then(images => {
       localUrl = URL.createObjectURL(images)
-      console.log({ localUrl })
+      // console.log({ localUrl })
       dtog && setBG(elm, localUrl)
     })
 
-  console.log({ delay })
+  // console.log({ delay })
   setTimeout(() => {
     dtog = true;
     localUrl && setBG(elm, localUrl)

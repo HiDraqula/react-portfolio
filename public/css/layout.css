@@ -613,7 +613,11 @@ ul#nav li.current a {
 }
 
 .portfolio-item .portfolio-item-meta {
-   padding: 18px
+   padding: 18px;
+   height: 100%;
+   display: flex;
+   flex-flow: column;
+   justify-content: space-around;
 }
 
 .portfolio-item .portfolio-item-meta h5 {
